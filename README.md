@@ -1,7 +1,8 @@
 # Auth.GG Encryption Bypass PoC
 
-Authored by https://discord.gg/keyauth
-
+**Credits:** https://discord.gg/keyauth and [@CabboShiba](https://github.com/CabboShiba?tab=repositories)
+<br>
+<br>
 Due to poor implementation of AES encryption within auth.gg, all programs, **including obfuscated ones** are able to be exploited to login **without** a valid user account.
 
 No copyright has been infringed by this repository. My PoC was made using clean-room design. No property of auth.gg was modified in any of this process. System functions that don't belong to auth.gg were changed, that's all.
