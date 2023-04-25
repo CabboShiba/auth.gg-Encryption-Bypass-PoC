@@ -35,7 +35,8 @@ Download HTTPDebugger https://httpdebugger.com/download_pro.html
 
 Import the `HTTP Debugger Settings.xml` file into HTTPDebugger
 
--images here-
+![image](https://user-images.githubusercontent.com/83034852/234408208-0b6b4bc0-cba8-4c06-b0d8-a550a3168e4a.png)![image](https://user-images.githubusercontent.com/83034852/234408221-b081cab0-4b4a-47df-9fd5-31c70c0e2d95.png)
+
 
 Drag the program using auth.gg onto `harmony-ssl-hook.exe`. If the program using auth.gg has DLL files it requires, you should place all those files within the folder that `harmony-ssl-hook.exe` is in.
 
