@@ -8,8 +8,8 @@ auth.gg's encryption is implemented poorly, since the owner Outbuilt steals code
 
 as such, all auth.gg programs can be bypassed; regardless of whether they are utilizing obfuscation
 
-Tutorial video: 
-backup video links (in case of wrongful removal): 
+Tutorial video: https://youtu.be/LtiPOj6DuAg?t=36
+backup video links (in case of wrongful removal): https://files.catbox.moe/8nm18s.mp4
 */
 if($_SERVER['REQUEST_METHOD'] != 'POST') {
 	die("Invalid request");

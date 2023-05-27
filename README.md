@@ -1,5 +1,7 @@
 # Auth.GG Encryption Bypass PoC
 
+**Tutorial Video:** https://youtu.be/LtiPOj6DuAg?t=36
+
 **Credits:** https://discord.gg/keyauth and [@CabboShiba](https://github.com/CabboShiba?tab=repositories)
 <br>
 <br>
